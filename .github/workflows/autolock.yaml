@@ -9,9 +9,9 @@ name: Autolock
 
 jobs:
   lock:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
-      - uses: dessant/lock-threads@v2.0.1
+      - uses: dessant/lock-threads@v2.0.3
         with:
           github-token: ${{ github.token }}
           # Lock down after 3 months.

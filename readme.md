@@ -1,8 +1,8 @@
 <!--lint disable awesome-heading-->
 
 <p align="center">
-  <a href="https://github.com/kdeldycke/awesome-management/">
-    <img src="https://github.com/kdeldycke/awesome-management/blob/main/assets/awesome-management-header.png" alt="Awesome Engineering Team Management">
+  <a href="https://github.com/kdeldycke/awesome-engineering-team-management/">
+    <img src="https://github.com/kdeldycke/awesome-engineering-team-management/raw/main/assets/awesome-management-header.png" alt="Awesome Engineering Team Management">
   </a>
 </p>
 
@@ -18,15 +18,22 @@
 
 A compilation of advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
-You wonder what it looks like to be a manager from the inside? You just started your first job as the leader of a team? You're stuck into the day-to-day operations of the job? You need to move up to the next level? This guide is written for you!
+- You're a developer and wonders what it feels like to be a manager?
+- You just started your first position as the leader of a team?
+- You're stuck into the day-to-day operations of the job?
+- How can I move up to the next level?
 
-This body of work stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide\! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
 
-This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+
+## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Contents
+
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Engineering to Management Transition](#engineering-to-management-transition)
 - [Building Teams](#building-teams)
@@ -128,7 +135,7 @@ The first step. The hardest: how to requalify oneself from an Individual Contrib
 
 ## Building Teams
 
-You got the title and the pay grade. Congratulation! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
+You got the title and the pay grade. Congratulation\! This doesn't make you a manager yet. Whether you inherit an already existing team or have to start from scratch, you'll need to practice the art of building (and consolidating) them.
 
 - [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
 
@@ -184,7 +191,7 @@ In tech companies these roles are critical, and the frontier between the two is 
 
 ### Engineering Managers
 
-Managers came in all form and shape, and the title and daily activities varies a lot depending on companies. When developers directly reports to you, you find yourself at the first management level: you are a front-line engineering manager.
+Managers came in all form and shape, and the title and daily activities varies a lot depending on companies. When developers directly reports to you, you'll find yourself at the first management level: you are a front-line engineering manager.
 
 - [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - “The irony is that you don't really notice a great manager.”
 
@@ -199,6 +206,8 @@ Managers came in all form and shape, and the title and daily activities varies a
 - [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) - Some interesting points here, some others needs to be challenged.
 
 - [Surprising Things About Working at Well-Known Tech Unicorns](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/) - Echoes my own experience on differences between expectations and reality in high growth and visible companies from the point of view of an engineering manager.
+
+- [100+ Lessons Learned for Project Managers](https://llis.nasa.gov/lesson/1956) - 122 aphorisms providind insights into NASA project management success. Covers design, decision-making, managing staff, working with superiors and contractors.
 
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) - Huge list, but need some curation.
 
@@ -224,13 +233,15 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [All the best engineering advice I stole from non-technical people](https://medium.com/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) - “It's intriguing that the stuff that really seems to make a difference in the quality of software never seems to be about software.”
 
-- [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (!). Still a good source referencing other papers on the topic.
-
-- [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) - A great window into the somewhat nebulous title of Staff Engineer, also called Principal Engineer or Software Architect at times. I.e. a role in which you are a technical expert, but know how to solve non-obvious engineering issues, most of the time because they are rooted in social, communications and hierarchical complexities.
+- [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf) - Doesn't conclude on a definitive answer to the question, but details a model based on 53 attributes (\!). Still a good source referencing other papers on the topic.
 
 - [What makes a Senior Dev](https://news.ycombinator.com/item?id=11341567) - “Time, man. You gotta do your fucking time.”
 
 - [The different engineering levels at Google](https://news.ycombinator.com/item?id=24627229) - From L3 to L8: a quick description of what makes an engineer at each level.
+
+- [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) - A great window into the somewhat nebulous title of Staff Engineer, also called Principal Engineer or Software Architect at times. I.e. a role in which you are a technical expert, but know how to solve non-obvious engineering issues, most of the time because they are rooted in social, communications and hierarchical complexities.
+
+- [StaffEng](https://staffeng.com) - Once you've reached the Senior Software Engineer level, you're at the crossroad. Either you pursue engineering management or continue down the path of technical excellence to become a Staff Engineer. This isa collection of guides about the later position.
 
 ### Consultants
 
@@ -260,7 +271,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
 
-- [A ​Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
+- [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
@@ -339,6 +350,8 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 - [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/) - “59% of developers contribute to open source software today. Why do they contribute? The top two reasons are: To improve coding skills and because they believe in open source. Want to keep those developers happy and employed with you? Let them contribute.”
 
 - “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - Maybe the best indicator of a happy team is how little it is disturbed outside office hours.
+
+- [6 Signs You're a Micromanager (And What to Do Instead)](https://unito.io/blog/micromanagement-signs/) - “You're more involved with your employees than ever, yet they seem disgruntled, unhappy, and less productive than usual. Your check-ins seem to go unappreciated. And no one seems receptive to all of your great feedback on their work. What's going on? Well, we hate to break it to you, but you might be a micromanager.”
 
 ### Procrastination
 
@@ -508,9 +521,11 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Technical Debt Is Like Tetris](https://medium.com/s/story/technical-debt-is-like-tetris-168f64d8b700) - Another way to explain technical debt: “Scenarios like these create technical debt within the product code. A buried gap in Tetris represents technical debt. (…) Paying down technical debt keeps you competitive. It keeps you in the game.”
 
+- [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) - “The problem lies in "never reorganizing \[the code\] to reflect your understanding." (…) Organizationally, you pay in velocity and turnover; talented people are going to leave after a few rounds of bullshit.”
+
 - [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - “My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean! (…) I see now that my 'refactoring' was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication”.
+- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - “My boss invited me for a one-on-one chat where they politely asked me to revert my change. I was aghast. The old code was a mess, and mine was clean\! (…) I see now that my 'refactoring' was a disaster in two ways: I didn't talk to the person who wrote it; My code traded the ability to change requirements for reduced duplication”.
 
 ## Remote Work
 
@@ -564,6 +579,8 @@ The Product Manager is supposed to be the *voice of the market*. Here are more l
 
 - [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
 
+- [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - Lots of wisdom about space program management.
+
 - [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Hiring PMs
@@ -598,7 +615,7 @@ Where your product lies in the value chain and how to position it in the market.
 
 - Windows Vista as a prime example of a [sacrificial lamb product](https://twitter.com/SwiftOnSecurity/status/851861076429991937): a massive unpopular re-architecture required to pave the way for future innovative release. That's the cautionary tale of why you should be ready for intense criticism and adversity, if by chance or fate your wander down the path of monumental changes in a business software.
 
-- Talking about Vista, Microsoft found out following its unsuccessful launch that [the #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
+- Talking about Vista, Microsoft found out following its unsuccessful launch that [the \#1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/).
 
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect) - “A social phenomenon of customers canceling or deferring orders for the current soon-to-be-obsolete product as an unexpected drawback of a company's announcing a future product prematurely.” This is the price to pay for hasty marketing actions.
 
@@ -612,7 +629,7 @@ On how to focus on user's problem to have your product delivers value.
 
 - [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “Fall in love with your problems and not with your solutions.”
 
-- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine > Machine > Strong Human.
+- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - Weak human + Machine \> Machine \> Strong Human.
 
 - [The Psychology of Design](https://growth.design/psychology/) - An extensive list of cognitive biases and design principles with examples and tips to fine-tune your product and UX.
 
@@ -658,6 +675,8 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/) - How not to manage projects approaching deadlines: “cutting finished features, yelling at people, and working people to the point of nervous breakdowns. Then they came upon a brilliant idea: let's steal over a hundred engineers from other teams and then the project will magically get done on time.”
 
+- [Robert "Uncle Bob" Martin talk about professionalism in software development](https://youtu.be/LmRl0D-RkPU?t=3202) - The only honest estimate is "I don't know". But you can come up with some kind of propability assessment, that will inform about the shape of the risk. This is not unlike PERT, where an activity is bounded by [optimistic, pessimistic and most-likely time](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique#Time). Now if managers don't take a range for an answer, don't fall in that trap. Tell them you're already trying as you possibly can. “And then the manager will have to do something very foreign: they'll have to manage. That's what management is: managing risk.”
+
 ### Tickets
 
 - [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/) - Issue trackers needs to materialize ownership, queue position, state, task breakdown and aggressive closing. Priority, ticket type, software version, severity and long-life tickets are anti-patterns.
@@ -678,7 +697,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - “The fundamental problem that drives most agile failures isn't in the team's execution, it's in the business' expectations. One side is signed up for incremental delivery, and one side is set up for a fixed scope and deadline and the result is misery.” ([source](https://news.ycombinator.com/item?id=20326074))
 
-- [Failed #SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change”.
+- [Failed \#SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change”.
 
 ## Key Performance Indicator (KPI)
 
@@ -850,7 +869,7 @@ Stepping stones advancing a career in a company takes the form of promotions. Th
 
 Reviews and performance evaluations are the tool of the trade to unlock promotions. As a manager, your going to write and instrument them for your team members to get the raise they deserve. And getting through them as any other employee to advance your career.
 
-- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There's this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it's often more complicated than that.
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) - There's this idea that, if you do great work at your job, people will (or should\!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it's often more complicated than that.
 
 - [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) - “Incentives (or bribes) simply can't work in the workplace. (…) Most software managers have no choice but to go along with performance review systems that are already in place. If you're in this position, the only way to prevent teamicide is to simply give everyone on your team a gushing review”.
 
@@ -860,7 +879,7 @@ Reviews and performance evaluations are the tool of the trade to unlock promotio
 
 - “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
 
-- [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it!
+- [Performance review generator](https://mschmitt.org/performance/) - Tired of writing reviews? Automate it\!
 
 ## Compensation
 
@@ -888,7 +907,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 ## Politics
 
-Here we are, at the intersection of power and influence lies the political game. If its nature and intensity is sourced from the company's core culture and history, you're unfortunately unlikely to avoid it past a certain hierarchical level. So be prepared.
+Here we are, at the intersection of power and influence lies the political game. If its nature and intensity is sourced from the company's core culture and history, you're unfortunately unlikely to avoid it past a certain hierarchical level. Be prepared.
 
 - “Politics is how a middle manager runs interference and creates distractions to make sure you can't see over, around, or through them, and that the people behind them closer to the money can't see you.” ([source](https://news.ycombinator.com/item?id=22808280)).
 
@@ -902,9 +921,13 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory) - “In selectorate theory, three groups of people affect leaders. These groups are the nominal selectorate, the real selectorate, and the winning coalition. (…) To remain in power, leaders must maintain their winning coalition.”
 
+- [Circulation of elite](https://en.wikipedia.org/wiki/Circulation_of_elite) - “Changes of regime, revolutions, and so on occur not when rulers are overthrown from below, but when one elite replaces another.”
+
 - “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)), or why the [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) is missing the parts about office politics.
 
 - [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) - Tactics of hustling managers, and how the company reacting to that kind of manager makes or break a good place to work.
+
+- [Making Nice or Faking Nice? Exploring Supervisors' Two-Faced Response to their Past Abusive Behavior](https://onlinelibrary.wiley.com.sci-hub.st/doi/10.1111/peps.12424) - “It behooves organizations that want to develop highly authentic supervisors or organizational climates to seek to hire supervisors that are lower (or at least not higher) on symbolized moral identity.”
 
 - “The actual power wielded by a high level executive is usually inversely proportional to the size of the organization they manage.” (source: [comment](https://news.ycombinator.com/item?id=20260498) on [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 
@@ -919,6 +942,8 @@ Here we are, at the intersection of power and influence lies the political game.
 - “It's common to promote someone to just get rid of that person :) Sometimes promoting is just easier that firing.” ([source](https://news.ycombinator.com/item?id=21767734)).
 
 - [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - Derived from WWII-era [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf), a classic read to spot harassing and demoralizing behaviors.
+
+- [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/) - “1. I'm kind of a big deal\! 2. None of this is my fault\! 3. Just do what I say\! 4. Trust me; I'm never wrong.”
 
 ## Re-organizations
 
@@ -936,7 +961,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36) - After 3 decades in a deeply flawed company, the author comes to a humble conclusion: leaders should embodies the value of their employees. Not the other way around. “Changes at the top — not speeches, training or hashtags — make the most cultural impact. If you want real and lasting cultural change, sweep away the made-men who succeeded under the previous culture and promote the people who look, act, and think more like their employees than their managers.”
 
-- [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type  of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
+- [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 
 ## Health
 
@@ -987,7 +1012,9 @@ Here we are, at the intersection of power and influence lies the political game.
 - [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) - “Short treatise on the nature of failure; how failure is evaluated; how failure is attributed to proximate cause; and the resulting new understanding of patient safety”.
 
 <!--lint disable double-link-->
+
 - [Normalization of deviance](https://danluu.com/wat/) - Explores how the factors accounting for disasters accumulates unnoticed until it's too late. This has been studied on other fields, but not in software engineering.
+
 <!--lint enable double-link-->
 
 - [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=yfeWhYj5zkQ) - On how sales and marketing takes over product focused companies.
@@ -1005,7 +1032,9 @@ Sometimes, you just have to call it quits.
 - “*People do get pissed off in clusters* is the best description of a team/company meltdown that I've ever seen.” ([source](https://news.ycombinator.com/item?id=19755001))
 
 <!--lint disable double-link-->
+
 - “Something I've seen multiple times is that, when a VP leaves, a company will become a substantially worse place to work, and it will slowly dawn on people that the VP was doing an amazing job at supporting not only their direct reports, but making sure that everyone under them was having a good time.” ([source](https://danluu.com/wat/#fn:P))
+
 <!--lint enable double-link-->
 
 - “Next time your favorite manager and tech lead quit the company, ask them why.” ([source](https://news.ycombinator.com/item?id=21767843)).
@@ -1020,12 +1049,12 @@ Sometimes, you just have to call it quits.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](.github/contributing.md) first.
+Your contributions are always welcome\! Please take a look at the [contribution guidelines](.github/contributing.md) first.
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/assets/awesome-management-header.png) is based on a modified
-[photo taken in November 2017](https://unsplash.com/photos/6dDHofabCQ8) by [Werner Du plessis](https://unsplash.com/@werner01).
+The [header image](https://github.com/kdeldycke/awesome-engineering-team-management/blob/main/assets/awesome-management-header.png) is based on a modified [photo taken in November 2017](https://unsplash.com/photos/6dDHofabCQ8) by [Werner Du plessis](https://unsplash.com/@werner01).
 
 <!--lint disable no-undefined-references-->
-<a name="intro-quote-def">[1]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+
+<a name="intro-quote-def">\[1\]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
